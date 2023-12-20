@@ -40,7 +40,7 @@
 // .pause(1000)
 // .deleteChars(21)
 // .typeString('<span style="color: #d60c3e"> Full Stack !')
- //.start()
+ .start()
  
   /*----------------------- Clock ----------------------*/
  const deg = 6;
