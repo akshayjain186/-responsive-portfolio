@@ -11,7 +11,7 @@
 // .typeString(', Dev full stack !')
 // .pause(1000)
   
- .deleteChars(13)
+ //.deleteChars(13)
  .typeString('<span style="color: #D84923"> HTML!')
  .pause(1000)
  .deleteChars(6)
@@ -40,7 +40,7 @@
 // .pause(1000)
 // .deleteChars(21)
 // .typeString('<span style="color: #d60c3e"> Full Stack !')
- .start()
+ //.start()
  
   /*----------------------- Clock ----------------------*/
  const deg = 6;
