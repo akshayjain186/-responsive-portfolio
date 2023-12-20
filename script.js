@@ -11,7 +11,7 @@
 // .typeString(', Dev full stack !')
 // .pause(1000)
   
- //.deleteChars(13)
+ .deleteChars(13)
  .typeString('<span style="color: #D84923"> HTML!')
  .pause(1000)
  .deleteChars(6)
@@ -29,7 +29,7 @@
  .deleteChars(12)
  .typeString('<span style="color: #E3A652"> SQL !')
  .pause(1000)
-// .deleteChars(16)
+ .deleteChars(16)
 // .typeString('<span style="color: #f7043d"> Pentest, Osint !')
 // .pause(1000)
 // .deleteChars(16)
